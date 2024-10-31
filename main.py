@@ -180,7 +180,7 @@ if st.button("Get Details"):
                 subject = f"Place Info Request: {place_name}"
                 
                 # Send email with the HTML content
-                send_email(subject, html_content)
+                # send_email(subject, html_content)
 
             except Exception as e:
                 st.error(f"Error fetching details: {e}")
