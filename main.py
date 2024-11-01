@@ -191,5 +191,4 @@ st.markdown("</div>", unsafe_allow_html=True)  # End of container
 # Footer
 st.markdown("---")
 # st.write("Made with ❤️ using Streamlit and Groq By Chinmay Jena")
-# st.write("Made By Chinmay Jena")
-st.write("Made By Musa's Husband")
+st.write("Made By Chinmay Jena")
